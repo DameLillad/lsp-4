@@ -52,7 +52,7 @@ public class HelloController {
         String msg = JSON.toJSONString(getMenu);
         return msg;
     }
-//    得到用户列表dfadfaddd;;;;dd
+//    得到用户列表 建名老傻逼
     public String getUserList(){
 
         return null;
